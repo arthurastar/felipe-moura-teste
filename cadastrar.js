@@ -54,6 +54,7 @@ formulario.addEventListener('submit', async (e) => {
         },
         ano
     }
+    let azul=''
     cadastrarLivro(livro)
 })
 
